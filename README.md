@@ -1,1 +1,1 @@
-# sql-queries-covid-data
+# below are my covid queries
